@@ -1,4 +1,4 @@
-# pemt_creativity
+# ABOUT
 
 This repository contains supplementary material for the publication:
 
